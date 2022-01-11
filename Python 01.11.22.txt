@@ -1,0 +1,101 @@
+Python 3.9.9 (tags/v3.9.9:ccb0e6a, Nov 15 2021, 18:08:50) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> counties = ["Arapahoe", "Denver", "Jefferson"]
+>>> counties[0]
+'Arapahoe'
+>>> print(counties[2])
+Jefferson
+>>> counties.append("El Paso")
+>>> print(counties)
+['Arapahoe', 'Denver', 'Jefferson', 'El Paso']
+>>> counties_dict = {}
+>>> counties_dict["Arapahoe"] = 422829
+>>> counties_dict
+{'Arapahoe': 422829}
+>>> counties_dict["Denver"] = 463353
+>>> counties_dict["Jefferson"] = 432438
+>>> len(counties_dict)
+3
+>>> counties_dict.items()
+dict_items([('Arapahoe', 422829), ('Denver', 463353), ('Jefferson', 432438)])
+>>> counties_dict["Arapahoe"]
+422829
+>>> voting_data = []
+>>> voting_data.append({"county":"Arapahoe", "registered_voters": 422829})
+>>> voting_data.append({"county":"Denver", "registered_voters": 463353})
+>>> voting_data.append({"county":"Jefferson", "registered_voters": 432438})
+>>> voting_data
+[{'county': 'Arapahoe', 'registered_voters': 422829}, {'county': 'Denver', 'registered_voters': 463353}, {'county': 'Jefferson', 'registered_voters': 432438}]
+>>> len(voting_data)
+3
+>>> for county in counties_dict:
+... print(county)
+  File "<stdin>", line 2
+    print(county)
+    ^
+IndentationError: expected an indented block
+>>> for county in counties_dict: print(county)
+...
+... print(county
+  File "<stdin>", line 3
+    print(county
+    ^
+SyntaxError: invalid syntax
+>>> for county in counties_dict:
+...     print(county)
+...
+Arapahoe
+Denver
+Jefferson
+>>> for counties in count_dict
+  File "<stdin>", line 1
+    for counties in count_dict
+                              ^
+SyntaxError: invalid syntax
+>>> for county in counties_dict:
+... print(county)
+  File "<stdin>", line 2
+    print(county)
+    ^
+IndentationError: expected an indented block
+>>> for counties in counties_dict:
+...     print(county)
+...
+Jefferson
+Jefferson
+Jefferson
+>>> counties_dict
+{'Arapahoe': 422829, 'Denver': 463353, 'Jefferson': 432438}
+>>> for county in counties_dict:
+...     print(county)
+...
+Arapahoe
+Denver
+Jefferson
+>>> for county in counties_dict.keys():
+...     print(county)
+...
+Arapahoe
+Denver
+Jefferson
+>>> for county in counties_dict.keys():
+...     print(county)
+...
+Arapahoe
+Denver
+Jefferson
+>>> for voters in counties_dict.values():
+...     print(voters)
+...
+422829
+463353
+432438
+>>> for key, value in dictionary_name.items():
+...     print(key, value)
+...
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'dictionary_name' is not defined
+>>> voting_data
+[{'county': 'Arapahoe', 'registered_voters': 422829}, {'county': 'Denver', 'registered_voters': 463353}, {'county': 'Jefferson', 'registered_voters': 432438}]
+>>>
