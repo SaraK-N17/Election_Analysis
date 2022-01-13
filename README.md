@@ -10,9 +10,9 @@ A request was received to assist in analyzing election data from a local Colorad
   5. Declare a winner
 
 ## Resources
-  1. A csv file titled election_results.csv
-  2. Python 3.9.9
-  3. Visual Studio Code 
+  - A csv file titled election_results.csv  
+  - Python 3.9.9  
+  - Visual Studio Code  
 
 ## Summary
 The analysis shows 369,711 votes were cast in this election.
