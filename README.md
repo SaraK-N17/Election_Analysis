@@ -10,17 +10,17 @@ A request was received to assist in analyzing election data from a local Colorad
   5. Declare a winner
 
 ## Resources
--A csv file titled election_results.csv
--Python 3.9.9
--Visual Studio Code 
+  1. A csv file titled election_results.csv
+  2. Python 3.9.9
+  3. Visual Studio Code 
 
 ## Summary
 The analysis shows 369,711 votes were cast in this election.
 
 The three candidates were:
-  Charles Casper Stockham
-  Diana DeGette
-  Raymon Anthony Doane
+  1. Charles Casper Stockham
+  2. Diana DeGette
+  3. Raymon Anthony Doane
   
 The election results were as follows:
   Charles Casper Stockham: received 23.0% of the votes (85,213 total votes).
