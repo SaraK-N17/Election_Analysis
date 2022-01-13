@@ -11,9 +11,7 @@ A request was received to assist in analyzing election data from a local Colorad
 
 ## Resources
 -A csv file titled election_results.csv
-
 -Python 3.9.9
-
 -Visual Studio Code 
 
 ## Summary
