@@ -1,6 +1,6 @@
 # Election_Analysis
 
-##Project Overview
+## Project Overview
 A request was received to assist in analyzing election data from a local Colorado election. The goal is to determine:
 
   1. Total votes cast
@@ -9,12 +9,12 @@ A request was received to assist in analyzing election data from a local Colorad
   4. Percentage of total votes each candidate received
   5. Declare a winner
 
-##Resources
+## Resources
 -A csv file titled election_results.csv
 -Python 3.9.9
 -Visual Studio Code 
 
-##Summary
+## Summary
 The analysis shows 369,711 votes were cast in this election.
 
 The three candidates were:
@@ -29,4 +29,4 @@ The election results were as follows:
  
  The winner of the election was **Diana DeGette**.
 
-##Challenge Overview
+## Challenge Overview
