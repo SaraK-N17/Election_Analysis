@@ -17,7 +17,7 @@ A request was received to assist in analyzing election data from a local Colorad
 ## Summary
 The analysis shows 369,711 votes were cast in this election.
 
-The three candidates were:
+The three candidates were:  
   Charles Casper Stockham  
   Diana DeGette  
   Raymon Anthony Doane  
