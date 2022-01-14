@@ -37,11 +37,11 @@ The analysis shows 369,711 votes were cast in this election.
 
 An election employee requested assistance in analyzing the election results. The findings for the candidate election results were requested and subsequently provided as follows:
 
-1. Total votes cast
-2. Complete list of candidates who received votes
-3. Total number of votes each candidate received
-4. Percentage of total votes each candidate received
-5. Declare a winner
+- Total votes cast  
+- Complete list of candidates who received votes  
+- Total number of votes each candidate received  
+- Percentage of total votes each candidate received  
+- Declare a winner  
 
 In addition, details about the counties participating in the election were determined including:  
 
