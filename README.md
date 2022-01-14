@@ -41,11 +41,13 @@ An election employee requested assistance in analyzing the election results. The
 4. Percentage of total votes each candidate received
 5. Declare a winner
 
+![image](https://user-images.githubusercontent.com/95710184/149434606-9e99fcbe-9173-499c-8b2e-b9b0e5fa2168.png)
+
 In addition, details about the counties participating in the election were determined including:  
 
 1. Voter turnout for each county
 2. County with the highest voter turnout
-3
+
 
 
 
