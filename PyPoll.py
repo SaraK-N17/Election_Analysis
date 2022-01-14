@@ -34,7 +34,7 @@ with open(file_to_load) as election_data:
         candidate_name = row[2]
         # If the candidate does not match any existing candidate...
         if candidate_name not in candidate_options:
-            # Add them to the list of candidates.
+            #Add them to the list of candidates.
             candidate_options.append(candidate_name)
             # Begin tracking that candidate's vote count.
             candidate_votes[candidate_name] = 0
