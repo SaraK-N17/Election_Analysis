@@ -30,6 +30,7 @@ The analysis shows 369,711 votes were cast in this election.
   Raymon Anthony Doane: received 3.1% of the votes (11,606 total votes).  
  
  **The winner of the election was Diana DeGette**.
+![image](https://user-images.githubusercontent.com/95710184/149434606-9e99fcbe-9173-499c-8b2e-b9b0e5fa2168.png)
 
 # Challenge Overview
 
@@ -41,14 +42,13 @@ An election employee requested assistance in analyzing the election results. The
 4. Percentage of total votes each candidate received
 5. Declare a winner
 
-![image](https://user-images.githubusercontent.com/95710184/149434606-9e99fcbe-9173-499c-8b2e-b9b0e5fa2168.png)
-
 In addition, details about the counties participating in the election were determined including:  
 
 1. Voter turnout for each county
 2. County with the highest voter turnout
 
-
-
-
 ## Challenge Summary  
+
+Candidates and overall winner were described in the Election Analysis above. For the county details, the results show that 
+**Denver County had the highest Voter Turnout with 82.8% of the votes and 306,055 votes.**
+D
