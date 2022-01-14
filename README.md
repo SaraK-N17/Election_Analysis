@@ -52,4 +52,3 @@ In addition, details about the counties participating in the election were deter
 
 Candidates and overall winner were described in the Election Analysis above. For the county details, the results show that 
 **Denver County had the highest Voter Turnout with 82.8% of the votes and 306,055 votes.**
-D
