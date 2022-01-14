@@ -35,7 +35,7 @@ The analysis shows 369,711 votes were cast in this election.
 
 # Challenge Overview
 
-An election employee requested assistance in analyzing the election results. The findings for the candidate election results were requested and subsequently provided as follows:
+An election employee requested assistance in analyzing the election results. The findings described below for the candidate election results were requested and provided in the election analysis above:
 
 - Total votes cast  
 - Complete list of candidates who received votes  
